@@ -1,0 +1,19 @@
+tumbling
+{'name':'Riya', 'timestamp':'2023-01-01 12:11:11'}
+{'name':'Riya', 'timestamp':'2023-01-01 12:11:12'}
+{'name':'Riya', 'timestamp':'2023-01-01 12:11:13'}
+{'name':'Riya', 'timestamp':'2023-01-01 12:11:23'}
+{'name':'Riya', 'timestamp':'2023-01-01 12:11:33'}
+{'name':'Riya', 'timestamp':'2023-01-01 12:11:34'}
+{'name':'Riya', 'timestamp':'2023-01-01 12:11:35'}
+{'name':'Riya', 'timestamp':'2023-01-01 12:11:45'}
+
+sliding
+{'name':'Riya', 'timestamp':'2023-01-01 12:11:11'}
+{'name':'Riya', 'timestamp':'2023-01-01 12:11:12'}
+{'name':'Riya', 'timestamp':'2023-01-01 12:11:13'}
+{'name':'Riya', 'timestamp':'2023-01-01 12:11:17'}
+{'name':'Riya', 'timestamp':'2023-01-01 12:11:33'}
+{'name':'Riya', 'timestamp':'2023-01-01 12:11:34'}
+{'name':'Riya', 'timestamp':'2023-01-01 12:11:35'}
+{'name':'Riya', 'timestamp':'2023-01-01 12:11:38'}

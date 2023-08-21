@@ -1,0 +1,21 @@
+RecordNumber,Country,City,Zipcode,State,hospitalInCity,healthStatus,gender
+1,US,PARC PARQUE,704,PR,56,healthy,male
+2,US,PASEO COSTA DEL SUR,704,PR,87,unhealthy,female
+10,US,BDA SAN LUIS,709,PR,34,unhealthy,male
+49347,US,HOLT,32564,FL,76,unhealthy,male
+49348,US,HOMOSASSA,34487,FL,98,healthy,female
+61391,US,CINGULAR WIRELESS,76166,TX,23,healthy,male
+61392,US,FORT WORTH,76177,TX,788,unhealthy,female
+61393,US,FT WORTH,76177,TX,300,healthy,female
+54356,US,SPRUCE PINE,35585,AL,87,healthy,female
+76511,US,ASH HILL,27007,NC,98,healthy,male
+4,US,URB EUGENE RICE,704,PR,90,healthy,male
+39827,US,MESA,85209,AZ,24,unhealthy,female
+39828,US,MESA,85210,AZ,09,unhealthy,female
+49345,US,HILLIARD,32046,FL,455,unhealthy,male
+49346,US,HOLDER,34445,FL,788,unhealthy,female
+3,US,SECT LANAUSSE,704,PR,87,unhealthy,male
+54354,US,SPRING GARDEN,36275,AL,899,unhealthy,female
+54355,US,SPRINGVILLE,35146,AL,459,unhealthy,male
+76512,US,ASHEBORO,27203,NC,98,unhealthy,female
+76513,US,ASHEBORO,27204,NC,36,unhealthy,male1,US,PARC PARQUE,704,PR,56,healthy,male

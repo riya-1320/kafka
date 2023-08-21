@@ -1,0 +1,9 @@
+{
+"type": "record",
+"name": "Person",
+"namespace": "SparkBasics",
+"fields": [
+{"name": "Name","type": ["string", "null"]},
+{"name": "favColor","type": ["string", "null"]}
+]
+}
